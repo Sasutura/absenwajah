@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "964316126370",
+    "firebase_url": "https://rekamwajahsiswa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rekamwajahsiswa",
+    "storage_bucket": "rekamwajahsiswa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964316126370:android:4c8f2232b4b60d263acbfb",
+        "android_client_info": {
+          "package_name": "com.sasutura.absenwajah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTWMcXaQeTFKvZ36JNxY5EO0zQenrnJWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
